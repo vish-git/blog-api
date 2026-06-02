@@ -200,6 +200,3 @@ src/
 
 ---
 
-## License
-
-Add MIT / Apache-2.0 / custom license as needed.
